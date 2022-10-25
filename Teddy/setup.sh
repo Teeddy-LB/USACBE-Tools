@@ -1,4 +1,5 @@
 #!/bin/sh
+git clone https://github.com/Teeddy-LB/USACBE-Tools
 chmod +rwx -R ghidra_10.1.5_PUBLIC
 apt update
 apt install -y default-jdk
